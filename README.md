@@ -4,4 +4,4 @@
 
 **2_Paper:** contains original academic article for the assignment  
 
-**3_Stata_Final_Project:** contains Tables 1, 2, 3 & 4 and Figures 3, 4, 5a, 6, 7 & 8 from the article with their corresponding Stata codes
+**3_Stata_Final_Project:** contains Tables 1, 2, 3 & 4 and Figures 3, 4, 5a, 6, 7 & 8 from the original article with their corresponding Stata codes
