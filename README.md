@@ -1,6 +1,6 @@
 # Introduction_to_Stata
 
-**1_Instructions:** contains instructions file for the assignment  
+**1_Instructions:** contains instructions for the assignment  
 
 **2_Paper:** contains the original academic article used for the assignment  
 
