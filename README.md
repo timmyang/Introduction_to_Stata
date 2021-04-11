@@ -4,7 +4,7 @@
 
 **2. Paper:** original academic article from the assignment  
 
-**3. Stata_Final_Project:** Tables **1, 2, 3 & 4** and Figures **3, 4, 5a, 6, 7 & 8** replicated from the article with their corresponding Stata codes
+**3. Stata_Final_Project:** Tables **1, 2, 3 & 4** and Figures **3, 4, 5a, 6, 7 & 8**, replicated from the article with their corresponding Stata codes
 
 ----------------
 #### About this course:
