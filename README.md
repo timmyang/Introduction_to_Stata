@@ -1,5 +1,7 @@
 # Introduction_to_Stata
 
+• Replicated linear regression models, tables and scatter plots of an academic article “Is the 1918 Influenza Pandemic Over? Long‐Term Effects of In Utero Influenza Exposure in the Post‐1940 U.S. Population” through Stata 
+
 **1. Instructions:** instructions for the assignment  
 
 **2. Paper:** original academic article from the assignment  
